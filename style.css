@@ -87,7 +87,7 @@ html, body{
     flex-shrink: 0;
     height: 100%;
     width: 60%;
-    background-color: yellow;
+/*     background-color: yellow; */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -100,7 +100,7 @@ html, body{
 #image-content{
     height: 60%;
     width: 100%;
-    background-color: purple;
+/*     background-color: purple; */
     display: flex;
     overflow-x: auto;
 }
@@ -192,7 +192,7 @@ html, body{
         height: 100%;
         width: fit-content;
         margin-right: 20px;
-        background-color: yellow;
+/*         background-color: yellow; */
         display: flex;
         align-items: center;
         justify-content: center;
@@ -206,7 +206,7 @@ html, body{
     #image-content{
         height: 67%;
         width: 100%;
-        background-color: purple;
+/*         background-color: purple; */
         display: flex;
         overflow-x: auto;
     }
